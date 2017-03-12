@@ -1,0 +1,9 @@
+Building WildersCoin
+
+See doc/readme-qt.rst for instructions on building WildersCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WildersCoin.
+
+See doc/build-*.txt for instructions on building WildersCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WildersCoin.
