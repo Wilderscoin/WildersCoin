@@ -166,7 +166,7 @@ int main(int argc, char *argv[])
     }
     ReadConfigFile(mapArgs, mapMultiArgs);
     // Add Daemon config settings - Also gets us connected for initial launch (before config file takes effect)
-    mapMultiArgs["-addnode"].push_back("addnode=104.200.67.124");
+    mapMultiArgs["-addnode"].push_back("addnode=173.24.153.52:12768");
     mapMultiArgs["-addnode"].push_back("addnode=107.170.212.222:12768");
 
     // Application identification (must be set before OptionsModel is initialized,
